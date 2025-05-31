@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|e:\\y1_semester_3\\cos20007_oop\\assignments\\week_3\\_3_3p\\drawingprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|e:\\y1_semester_3\\cos20007_oop\\assignments\\week_3\\_3_3p\\drawingprogram\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|e:\\y1_semester_3\\cos20007_oop\\assignments\\week_3\\_3_3p\\drawingprogram\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|e:\\y1_semester_3\\cos20007_oop\\assignments\\week_3\\_3_3p\\drawingprogram\\drawingprogram.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2047DB8-94FB-1B15-4F47-7506B289A683}|DrawingProgram.csproj|solutionrelative:drawingprogram.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawingProgram",
+              "DocumentMoniker": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\DrawingProgram.csproj",
+              "RelativeDocumentMoniker": "DrawingProgram.csproj",
+              "ToolTip": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\DrawingProgram.csproj",
+              "RelativeToolTip": "DrawingProgram.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T10:59:05.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:40:48.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:41:36.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:39:37.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

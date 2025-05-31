@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 1  Repository Overview
+## 📁 1. Repository Overview
 
 ```
 /Assignments/WeeklyTasks/Week01/        ← Weekly C# console apps
@@ -20,7 +20,7 @@
 
 ---
 
-## 👥 2  Contributor Guide
+## 👥 2. Contributor Guide
 
 ### 🛠️  2.1 Dev Environment
 
@@ -52,7 +52,7 @@ CI reproduces these steps via **blank.yml**.
 
 ---
 
-## 🎨 3  Coding & Style
+## 🎨 3. Coding & Style
 
 | Guideline      | Rule                                                                        |
 | -------------- | --------------------------------------------------------------------------- |
@@ -65,7 +65,7 @@ CI reproduces these steps via **blank.yml**.
 
 ---
 
-## 🔀 4  Pull‑Request / Commit Conventions
+## 🔀 4. Pull‑Request / Commit Conventions
 
 **Branch name** → `week##/task‑slug` e.g. `week04/pass‑task‑4‑1`
 
@@ -93,7 +93,7 @@ CI reproduces these steps via **blank.yml**.
 
 ---
 
-## 🧪 5  Validation Workflow
+## 🧪 5. Validation Workflow
 
 CI file **.github/workflows/blank.yml** runs:
 `dotnet build` → `dotnet test` → `dotnet format`.
@@ -101,7 +101,7 @@ Any failure blocks merge.
 
 ---
 
-## 🧑‍🏫 6  AI Teaching Agents
+## 🧑‍🏫 6. AI Teaching Agents
 
 ### 🎓 6.1 Primary Agent — **Professor COS20007**
 
@@ -158,7 +158,7 @@ Any failure blocks merge.
 
 ---
 
-## 🗓️ 7  Course Context Snapshot
+## 🗓️ 7. Course Context Snapshot
 
 * **Weeks 1–12**: Objects → Polymorphism → Interfaces → Design Patterns → Recap.
 * Assessment: 100 % portfolio + Week 8 hurdle test.
@@ -175,13 +175,13 @@ Any failure blocks merge.
 
 ---
 
-## ⚖️ 8  Scope & Precedence
+## ⚖️ 8. Scope & Precedence
 
 `AGENTS.md` applies to its directory subtree; nested files override parents. Direct user/system prompts outrank this file.
 
 ---
 
-## 📚 9  Glossary
+## 📚 9. Glossary
 
 | Term              | Definition                                                                         |
 | ----------------- | ---------------------------------------------------------------------------------- |

@@ -1,0 +1,14 @@
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\DrawingProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\DrawingProgram.AssemblyInfoInputs.cache
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\DrawingProgram.AssemblyInfo.cs
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\DrawingProgram.csproj.CoreCompileInputs.cache
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\bin\Debug\net9.0\DrawingProgram.exe
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\bin\Debug\net9.0\DrawingProgram.deps.json
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\bin\Debug\net9.0\DrawingProgram.runtimeconfig.json
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\bin\Debug\net9.0\DrawingProgram.dll
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\bin\Debug\net9.0\DrawingProgram.pdb
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\DrawingProgram.dll
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\refint\DrawingProgram.dll
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\DrawingProgram.pdb
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\DrawingProgram.genruntimeconfig.cache
+E:\Y1_Semester_3\COS20007_OOP\Assignments\Week_3\_3_3P\DrawingProgram\obj\Debug\net9.0\ref\DrawingProgram.dll

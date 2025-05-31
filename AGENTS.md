@@ -192,4 +192,11 @@ Any failure blocks merge.
 
 ---
 
+## 🌐 10. Environment
+- The .NET 9 SDK and SplashKitSDK NuGet package are pre-installed.
+- Reference SplashKit via <PackageReference Include="SplashKit" Version="1.2.11" /> (package already cached).
+- DO NOT vendor SplashKit.cs or DLLs.
+
+---
+
 > **Remember:** Codex must follow Cornell output, coding standards, PR checklist, and HD rubric when generating explanations or code.

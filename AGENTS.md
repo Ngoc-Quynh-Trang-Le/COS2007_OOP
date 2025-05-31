@@ -12,8 +12,8 @@
 …
 /UnityProjects/                         ← Unity mini‑games & demos
 /Unit Information and Key Links/        ← rubric, submission templates
-/Assignments/Description/Week01         ← PDF/TXT/DOCX task briefs, including images showing the UML diagram and code in the task instructions
-/Assignments/Description/Week02
+/Assignments/Description/Week01         ← PDF/TXT/DOCX task briefs, with images showing the UML diagram
+/Assignments/Description/Week02           and code in the task instructions.
 …
 .github/workflows/blank.yml             ← CI pipeline (build + tests + lint)
 ```

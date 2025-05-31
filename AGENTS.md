@@ -12,7 +12,9 @@
 …
 /UnityProjects/                         ← Unity mini‑games & demos
 /Unit Information and Key Links/        ← rubric, submission templates
-/Assignments/Description/               ← PDF/DOCX task briefs
+/Assignments/Description/Week01         ← PDF/TXT/DOCX task briefs
+/Assignments/Description/Week02
+…
 .github/workflows/blank.yml             ← CI pipeline (build + tests + lint)
 ```
 

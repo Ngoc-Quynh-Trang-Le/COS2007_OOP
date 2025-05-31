@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\DrawingProgram.csproj": {}
+    "E:\\Y1_Semester_3\\COS20007_OOP\\Resource\\myGit\\Assignments\\WeeklyTasks\\Week03\\DrawingProgram\\DrawingProgram.csproj": {}
   },
   "projects": {
-    "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\DrawingProgram.csproj": {
+    "E:\\Y1_Semester_3\\COS20007_OOP\\Resource\\myGit\\Assignments\\WeeklyTasks\\Week03\\DrawingProgram\\DrawingProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\DrawingProgram.csproj",
+        "projectUniqueName": "E:\\Y1_Semester_3\\COS20007_OOP\\Resource\\myGit\\Assignments\\WeeklyTasks\\Week03\\DrawingProgram\\DrawingProgram.csproj",
         "projectName": "DrawingProgram",
-        "projectPath": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\DrawingProgram.csproj",
+        "projectPath": "E:\\Y1_Semester_3\\COS20007_OOP\\Resource\\myGit\\Assignments\\WeeklyTasks\\Week03\\DrawingProgram\\DrawingProgram.csproj",
         "packagesPath": "C:\\Users\\quynh\\.nuget\\packages\\",
-        "outputPath": "E:\\Y1_Semester_3\\COS20007_OOP\\Assignments\\Week_3\\_3_3P\\DrawingProgram\\obj\\",
+        "outputPath": "E:\\Y1_Semester_3\\COS20007_OOP\\Resource\\myGit\\Assignments\\WeeklyTasks\\Week03\\DrawingProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

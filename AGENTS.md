@@ -1,6 +1,6 @@
 # 🗂️ AGENTS.md — **COS20007 Object‑Oriented Programming Master Guide**
 
-> *This Markdown file lives at the repo‑root so OpenAI Codex automatically loads it when the workspace is cloned. It tells both **humans** and **Codex** how to work here: folder map, coding standards, validation, PR etiquette, and—most importantly—the behaviour of the bespoke AI teaching staff.*
+> *This Markdown file lives at the repo‑root, so OpenAI Codex automatically loads it when the workspace is cloned. It tells both **humans** and **Codex** how to work here: folder map, coding standards, validation, PR etiquette, and—most importantly—the behaviour of the bespoke AI teaching staff.*
 
 ---
 
@@ -196,7 +196,7 @@ Any failure blocks merge.
 
 ## 🌐 10. Environment
 - The .NET 9 SDK and SplashKitSDK NuGet package are pre-installed.
-- Reference SplashKit via <PackageReference Include="SplashKit" Version="1.2.11" /> (package already cached).
+- Reference SplashKit via <PackageReference Include=\"SplashKit\" Version=\"1.2.11\" /> (package already cached).
 - DO NOT vendor SplashKit.cs or DLLs.
 
 ---

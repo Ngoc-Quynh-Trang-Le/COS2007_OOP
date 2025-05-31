@@ -25,7 +25,7 @@ Continue with the ShapeDrawer application that you developed in task 3.3P Drawin
 Currently, your program enables you to draw many shapes of the same type (i.e., rectangle). In this task, you extend your program to allow for many different types of shapes to be drawn (e.g., rectangles, circles, and lines). This requires additional program logic and techniques. In partic­ular, you will use inheritance to create a family of related classes and use method overriding to allow polymorphism in your application. Polymorphism is feature in object-oriented programming languages that permits a specific member function to use varying types of variables at different times. 
 
 The following UML class diagram illustrates the inheritance relationship that you are going to implement in this task. There are four classes: Shape, MyRectangle, MyCircle, and MyLine. Inheritance defines a “is-a” relationship between classes as well as objects (e.g., class MyRectangle is a kind of class Shape, MyRectangle objects are a kind of Shape objects). In UML, an inheritance relation is captured by drawing a line between the base class and the de­rived class with a hollow triangle pointing at the base class. So, in the UML diagram below, class Shape is that base class and the classes MyRectangle, MyCircle, and MyLine are the derived classes. (Please note that the base class is sometimes called parent class or super class, and the derived class is sometimes called inherited class or subclass.) 
-
+<image of Figure1.png>
 
 Figure 1: Shape Hierarchy. 
 Please note that class Shape has been annotated with <<abstract>>. That is, you cannot create objects of class Shape any longer. In addition, the methods Draw, DrawOutline, and IsAt are all abstract now as well. This means, class Shape does not provide an implementation for those methods. They have to be implemented (or overridden) in the derived classes. 
@@ -42,13 +42,13 @@ public class MyRectangle : Shape{}
 
 By making class Shape the base class of class MyRectangle allows class MyRectangle to inherit from class Shape. Class MyRectangle is a kind of Shape that knows its location, its size, its color, and whether it is selected. In addition, you can tell a MyRectangle object to Draw, to DrawOutline, and IsAt. The following UML fragment summarizes these facts. 
 
-<UML fragment>
+<image of UML-fragment.png>
 
 Inheritance is primary mechanism for code reuse in object-oriented programming languages. Class MyRectangle is a fully functional class, due to inheriting and reusing all the code that you have defined in class Shape. Hence, you can use objects of class MyRectangle where objects of class Shape are expected. 
 4. Go to the Main function in Program.cs. 
 
 5. Locate the if-statement that checks whether the user has clicked the left mouse button. Substitute new Shape() with new MyRectangle() as shown below: 
-<image of code1.png>
+<image of code1.jpeg>
 
 6. Run the program and add some rectangles (drawn at the current mouse pointer position). 
 
@@ -81,7 +81,7 @@ Class List is parameterized over the type of values it can maintain. Universal p
 8. In Program.cs, make the following changes to class Program: 
 
 8.1. Define a private enumeration called ShapeKind. This enumeration is used to deter­mine what shape the user wants to create. 
-<image of code2.png>
+<image of code2.jpeg>
 
 Note: In C#, you can declare types within other types. This type is encapsulated within its enclosing class. This can be a useful feature for types like enum ShapeKind, which should only be visible within class Program. 
 
@@ -93,7 +93,7 @@ Note: In C#, you can declare types within other types. This type is encapsulated
 • Add an if-statement to test if the user has typed the C-key (KeyCode.CKey). If this is true, set kindToAdd to ShapeKind.Rectangle. 
 
 • Update your code to allow for different shapes to be created. Use the following code as a guide. 
-<image of code3.png>
+<image of code3.jpeg>
 
 
 Note: Polymorphism allows you to assign objects of class MyCircle and MyRectangle to myShape. 
@@ -109,13 +109,13 @@ Unfortunately, all shapes are draws the same way – as rectangles. You have used 
 12. Add a constructor and set _radius to 50. 
 
 13. Switch to class Shape. Decorate the methods Draw and DrawOutline as virtual. The Draw method is shown below. 
-<image of code4.png>
+<image of code4.jpeg>
 
 
 Note: Declaring a method as virtual in C# allows subclasses to override the method. In addition, virtual methods are subject to dynamic dispatch, a process of selecting which implementation of a overridden (polymorphic) method to call at run time.
  
 14. Return to class MyCircle and define an overridden version of method Draw. Use the follow­ing code as a guide. 
-<image of code5.png>
+<image of code5.jpeg>
 
 Tip: Visual Studio can help you when overriding methods. Just start typing override and the Visual Studio will give you a list of the methods you can override. By default it calls base.Draw() which calls the method from class Shape. 
 
@@ -151,7 +151,7 @@ o Change method IsAt to be virtual and to return False.
 • For class MyRectangle: 
 
 o Define a constructor that accepts the color, the location (x, y), and the size (width, height) of the rectangle. This constructor must use a base-call to in­itialize the color in the base class Shape. Use the following code as a guide. You need to add a using declaration for SplashKitSDK so that type Color is defined. 
-<image of code6.png>
+<image of code6.jpeg>
 
 o Define a default constructor. You use a this-call to another defined construc­tor to initialize the object with Color.Green for color, 0.0f for x and y, and (100+XX) for width and height, where XX is the last two digits of your ID. 
 
